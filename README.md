@@ -17,7 +17,7 @@ This repository contains a proof-of-concept (PoC) malware implemented in C, desi
 
 ## Disclaimer
 
-**This repository is intended for educational and research purposes only. Unauthorized use of this malware for illegal activities, including unauthorized access and data theft, is strictly prohibited. Ensure you have explicit permission before conducting any security testing or penetration testing.**
+**This repository is intended for educational and research purposes only. The use of this malware for any unauthorized or illegal activities is strictly prohibited. This code is provided "as-is" without any warranties or guarantees. The author and repository maintainers accept no responsibility for any damage, loss, or legal consequences that may arise from the use or misuse of this tool. By using this code, you agree to take full responsibility for any actions taken and ensure that you have explicit permission to conduct security testing on any systems involved. Always adhere to ethical standards and legal requirements when using security tools.**
 
 ## License
 
