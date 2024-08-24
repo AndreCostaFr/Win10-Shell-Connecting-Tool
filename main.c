@@ -26,7 +26,7 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevm, LPSTR lpCmdLine, int
     char *ServerIP;
     WSADATA wsaData;
 
-    ServerIP = "192.168.0.7";
+    ServerIP = ""; //change this according to your machine IP address
     ServerPort = 50005;
 
     if (WSAStartup(MAKEWORD(2,0), & wsaData) !=0)
