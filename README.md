@@ -11,7 +11,7 @@ This repository contains a proof-of-concept (PoC) malware implemented in C, desi
 
 ## Usage
 
-1. **Build**: Compile the `malware.c` source file using a suitable C compiler for Windows.
+1. **Build**: Compile the `shellConnectMW.c` source file using a suitable C compiler for Windows.
 2. **Deploy**: Execute the compiled binary on the target Windows 10 system to deploy the malware.
 3. **Access**: Monitor captured keystrokes and remote sessions using the provided command and control (C2) mechanisms.
 
